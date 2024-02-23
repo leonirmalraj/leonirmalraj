@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="https://app.daily.dev/leonirmalraj"><img src="https://github.com/leonirmalraj/leonirmalraj/blob/main./devcard.png" width="356" alt="Leonirmalraj's Dev Card"/>
+<a href="https://app.daily.dev/leonirmalraj"><img src="https://github.com/leonirmalraj/leonirmalraj/blob/main/devcard.svg" width="356" alt="leonirmalraj's Dev Card"/>
 
 <!--
 **leonirmalraj/leonirmalraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
