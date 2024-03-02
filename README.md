@@ -1,4 +1,7 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Santhosh</h1>
+<h3 align="center">"Experienced MERN Full-Stack Developer 💻 | Crafting Next-Gen Web Solutions 🌐🚀 | Passionate about Tech Trends and Innovation 🌟"
+</h3>
+
 <a href="https://app.daily.dev/leonirmalraj"><img src="https://github.com/leonirmalraj/leonirmalraj/blob/main/devcard.png" width="356" alt="LEO NIRMALRAJ's Dev Card"/></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leonirmalraj&label=Profile%20views&color=0e75b6&style=flat" alt="leonirmalraj" /> </p>
