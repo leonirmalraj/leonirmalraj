@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Santhosh</h1>
+<h1 align="center">Hi 👋, I'm Leo Nirmalraj</h1>
 <h3 align="center">"Experienced MERN Full-Stack Developer 💻 | Crafting Next-Gen Web Solutions 🌐🚀 | Passionate about Tech Trends and Innovation 🌟"
 </h3>
 
