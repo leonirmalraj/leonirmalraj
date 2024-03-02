@@ -5,4 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leonirmalraj" alt="leonirmalraj" /></a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leonirmalraj&show_icons=true&locale=en&layout=compact" alt="leonirmalraj" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leonirmalraj&show_icons=true&locale=en" alt="leonirmalraj" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leonirmalraj&" alt="leonirmalraj" /></p>
+
+
 
